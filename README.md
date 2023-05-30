@@ -4,4 +4,4 @@ A trivial dependency Injection provider, to write up one that is not integrated 
 
 Not production code, just for fun. It was built in dotnet c#, the misspelling of the repository is a unintentional, but correct naming:
 
-**D**edicate **O**nly **N**aive for **T**raining **E**xperimental **T**utorial - miniDI"
+**D**edicated **O**nly **N**aive for **T**raining **E**xperimental **T**utorial - miniDI"
